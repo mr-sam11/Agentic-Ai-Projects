@@ -1,3 +1,2 @@
-venv/ChatBot
-venv/Blog Generation
-venv/Agentic ChatBot
+venv/
+.env
